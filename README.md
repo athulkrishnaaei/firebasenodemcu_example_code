@@ -27,7 +27,7 @@ use good usb cable
 
 esp8266 2.7.2
 arduinojson used arduino json ver 5.13.1
-install ch340 
+install ch340  https://www.youtube.com/watch?v=D271p2E2_o4
 add firebase libraryy in documents/arduino/library
 
 
